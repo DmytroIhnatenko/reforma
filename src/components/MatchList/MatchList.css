@@ -1,0 +1,33 @@
+.match-list {
+    background-color: #f0f0f0;
+    padding: 20px;
+    border-radius: 8px;
+  }
+  
+  .match-list h2 {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  .match-list ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .match-list li {
+    padding: 10px;
+    margin-bottom: 5px;
+    background-color: #fff;
+    color: black;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: background-color 0.3s ease;
+    text-decoration: none;
+  }
+  
+  .match-list li:hover {
+    background-color: #ddd;
+    text-decoration: none;
+  }
+  

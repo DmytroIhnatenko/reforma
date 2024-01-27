@@ -1,0 +1,56 @@
+.tournament-list {
+    background-color: #f0f0f0;
+    padding: 20px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+  }
+  
+  .tournament-list h2 {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  .tournament-list ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .tournament-list li {
+    padding: 10px;
+    margin-bottom: 5px;
+    background-color: #fff;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .tournament-list li:hover {
+    background-color: #ddd;
+    text-decoration: none;
+  }
+
+  /* Add styles for TournamentList */
+.tournament-list h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+    color: #ffcc00; /* Yellow */
+  }
+  
+  .tournament-list ul {
+    padding: 0;
+    list-style: none;
+  }
+  
+  .tournament-list li {
+    cursor: pointer;
+    margin: 5px 0;
+    font-size: 16px;
+    font-weight: bold;
+    color: black;
+  }
+  
+  .tournament-list li:hover {
+    text-decoration: unset;
+  }
+  
+  
